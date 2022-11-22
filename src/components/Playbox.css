@@ -1,4 +1,6 @@
 #playbox {
   color: red;
   border: 5px solid royalblue;
+  margin: 50px;
+  padding: 5px 0 5px 0;
 }
