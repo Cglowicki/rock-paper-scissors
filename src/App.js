@@ -1,12 +1,13 @@
-
 import './App.css';
-import Button from './components/Button'
+import Playbox from './components/Playbox';
 
 function App() {
   return (
     <div className="App">
       ROCK, PAPER, SCISSORS!
-      <Button />
+      <body>
+        <Playbox />
+      </body>
     </div>
   );
 }
