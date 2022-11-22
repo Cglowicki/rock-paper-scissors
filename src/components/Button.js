@@ -2,6 +2,7 @@ import React from 'react';
 
 function click() {
   alert("I was clicked!");
+  console.log('click');
 };
 
 function Button() {

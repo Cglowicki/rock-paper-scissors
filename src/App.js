@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       ROCK, PAPER, SCISSORS!
-      <body>
+     
         <Playbox />
-      </body>
+      
     </div>
   );
 }
